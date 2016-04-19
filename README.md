@@ -1,5 +1,7 @@
 # Filesystem Manager
 
+[![Build Status](https://travis-ci.org/iSaran/filesystem_manager.svg?branch=master)](https://travis-ci.org/iSaran/filesystem_manager)
+
 A C++ app which manages a filesystem (under linux and bash). Currently, under development and for personal usage only.
 
 ## Build
