@@ -1,0 +1,14 @@
+language:
+  - cpp
+
+compiler:
+  - gcc
+
+sudo: required
+dist: trusty
+
+install: true
+
+script:
+  # Build and run the project
+  - ./build.sh
